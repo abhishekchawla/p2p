@@ -1,0 +1,21 @@
+#
+#Thu Dec 03 11:18:15 EST 2015
+c2_snd=c4
+c3_rec=c1
+clients=5
+c4_snd=c1
+c5_rec=c3
+c1_snd=c3
+c2_rec=c5
+chunks=58
+c5=12005
+c4=12004
+c3=12003
+c3_snd=c5
+c2=12002
+c1=12001
+c4_rec=c2
+server=12000
+filename=Demo_data.zip
+c1_rec=c4
+c5_snd=c2
